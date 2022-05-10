@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+
+p{
+    font-family: Raleway, sans-serif;
+}
+
+.sm_nav_item{
+    @apply my-2 border-b-2 border-white cursor-pointer
+}
+.sm_nav_item.active{
+    @apply border-blue-450 border-b-4 cursor-pointer
+}
