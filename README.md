@@ -19,7 +19,7 @@ Run the following commands to
 - Run ``` composer install ```
 - Start build process: ``` npm install && npm run dev ```
 - Create an environment variable file ``` cp .env.example .env ```
-- Run ``` php artisan key:genetate ```
+- Run ``` php artisan key:generate ```
 - Start build process: ``` npm install && npm run watch ```
 - Launch application in your browser using ``` php artisan serve ```
 
