@@ -10,7 +10,7 @@ This project is a submission to the Helix Sleep E-Commerce Product Page Code Cha
 
 ## Technologies
 
-Laravel, Tailwind CSS, Alpine,js
+Laravel, Tailwind CSS, Alpine.js
 
 ## Running the project
 
