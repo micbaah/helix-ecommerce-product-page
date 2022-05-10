@@ -17,8 +17,12 @@ Laravel, Tailwind CSS, Alpine,js
 Run the following commands to 
 - Clone the project: ``` git clone https://github.com/micbaah/helix-ecommerce-product-page.git ```
 - Run ``` composer install ```
+<<<<<<< HEAD
 - Start build process: ``` npm install && npm run dev ```
 - Create an environment variable file ```cp .env.example .env ```
 - Run ``` php artisan key:genetate ```
+=======
+- Start build process: ``` npm install && npm run watch ```
+>>>>>>> 82139df38fe2d119b112e83740dcda7e45cfdb9b
 - Launch application in your browser using ``` php artisan serve ```
 
